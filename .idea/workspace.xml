@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60ca97e6-b693-4d2b-b533-a9580d0c8e7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/Product.java" afterDir="false" />
+    <list default="true" id="60ca97e6-b693-4d2b-b533-a9580d0c8e7a" name="Changes" comment="phone class.">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product/Notebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -50,6 +52,28 @@
       <option name="presentableId" value="Default" />
       <updated>1723470377691</updated>
     </task>
+    <task id="LOCAL-00001" summary="product class.">
+      <option name="closed" value="true" />
+      <created>1723475371739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723475371739</updated>
+    </task>
+    <task id="LOCAL-00002" summary="phone class.">
+      <option name="closed" value="true" />
+      <created>1723475470826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723475470826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="product class." />
+    <MESSAGE value="phone class." />
+    <option name="LAST_COMMIT_MESSAGE" value="phone class." />
   </component>
 </project>
